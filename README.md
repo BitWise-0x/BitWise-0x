@@ -16,7 +16,7 @@ Backend Developer | DevOps Engineer
 - 🚧 APIs | Websockets | GraphQL/REST | Stateful Backends
 - 🧬 Linux-first, Cloud-agnostic
 - ☠️ Alerting | Observability
-- 🧠 Ai & Intelligent Systems: LLM Hosting | RAG | MCP Tooling, Agentic rituals
+- 🧠 Ai inference: LLM Hosting | Supervised Fine Tuning | RAG | MCP/Tooling, Agentic rituals
 
 ---
 
