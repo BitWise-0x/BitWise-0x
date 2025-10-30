@@ -11,12 +11,12 @@ Backend Developer | DevOps Engineer
 
 - 🧱 Backend Dev | Sys Architecture
 - 🌪️ Clusters | Containers | Microservices: Bare-metal, Docker Swarm, Kubernetes
-- ⛓️ Scripting & Systems Wizardry: Python, Perl, Bash, PoSh, VBScript
+- ⛓️ Scripting Wizardry: Python, Perl, Bash, PoSh, VBScript
 - 🔁 Automation Wrangling: IaC, CI/CD pipelines
 - 🚧 APIs | Websockets | GraphQL/REST | Stateful Backends
 - 🧬 Linux-first, Cloud-agnostic
 - ☠️ Alerting | Observability
-- 🧠 Ai & Intelligent Systems: LLM Hosting | RAG | MCP Tooling, Agents, and other rituals
+- 🧠 Ai & Intelligent Systems: LLM Hosting | RAG | MCP Tooling, Agentic rituals
 
 ---
 
