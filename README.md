@@ -9,7 +9,7 @@ Backend Developer -|- DevOps Engineer
 
 ## 🧠 About
 
-- 🧱 Backend Dev | DevOps/Infra Architecture
+- 🧱 Backend Dev | Sys Architecture
 - 🌪️ Clusters | Containers | Microservices: Bare-metal, Docker Swarm, Kubernetes
 - ⛓️ Scripting & Systems Wizardry: Python, Perl, Bash, PoSh, VBScript
 - 🔁 Automation Wrangling: IaC, CI/CD pipelines
