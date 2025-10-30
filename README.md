@@ -9,14 +9,14 @@ Backend Developer -|- DevOps Engineer
 
 ## 🧠 About
 
-- 🧱 Backend Developer, DevOps Engineer, Infrastructure Architect
-- 🌪️ Clusters, Containers, and Microservices: Bare-metal, Docker Swarm, Kubernetes
+- 🧱 Backend Developer | DevOps Engineer | Infra Architect
+- 🌪️ Clusters | Containers | Microservices: Bare-metal, Docker Swarm, Kubernetes
 - ⛓️ Scripting & Systems Wizardry: Python, Perl, Bash, PoSh, VBScript
 - 🔁 Automation Wrangling: IaC, CI/CD pipelines
-- 🚧 APIs, Websockets, GraphQL|REST, stateful backends
+- 🚧 APIs | Websockets | GraphQL/REST | Stateful Backends
 - 🧬 Linux-first, Cloud-agnostic
-- ☠️ Alerting, Observability, Notifications
-- 🧠 Ai & Intelligent Systems: LLM Hosting, RAG, MCP, Agents, and other rituals
+- ☠️ Alerting | Observability
+- 🧠 Ai & Intelligent Systems: LLM Hosting | RAG | MCP Tooling, Agents, and other rituals
 
 ---
 
