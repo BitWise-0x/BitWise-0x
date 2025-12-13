@@ -1,4 +1,4 @@
-## Backend Developer | DevOps Engineer
+# Backend Developer | DevOps Engineer
 
 Full-stack | Backend Systems | Container Orchestration | AI Applications
 
@@ -6,7 +6,7 @@ Full-stack | Backend Systems | Container Orchestration | AI Applications
 
 ## Stack
 
-### Languages
+### Languages & Frameworks
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-FFFFFF?style=for-the-badge&logo=apple&logoColor=black)
@@ -23,10 +23,10 @@ Full-stack | Backend Systems | Container Orchestration | AI Applications
 
 ### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-806080?style=for-the-badge&logo=uvicorn&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-806080?style=for-the-badge&logo=uvicorn&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
