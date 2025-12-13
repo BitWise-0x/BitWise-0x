@@ -27,8 +27,6 @@ Full-stack | Backend Systems | Container Orchestration | Ai Applications
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 
 <br>
@@ -36,7 +34,6 @@ Full-stack | Backend Systems | Container Orchestration | Ai Applications
 ### Infrastructure
 ![Docker Swarm](https://img.shields.io/badge/Docker--Swarm-326CE5?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik&logoColor=white)
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge)
@@ -58,7 +55,6 @@ Full-stack | Backend Systems | Container Orchestration | Ai Applications
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Fossa Badge](https://img.shields.io/badge/Fossa-289E6D?logo=fossa&logoColor=fff&style=for-the-badge)
-![SBOM](https://img.shields.io/badge/SBOM-FF6B35?style=for-the-badge&logo=npm&logoColor=white)
 
 <br>
 
