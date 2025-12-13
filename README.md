@@ -1,6 +1,6 @@
 # Backend Developer | DevOps Engineer
 
-Full-stack | Backend Systems | Container Orchestration | AI Applications
+Full-stack | Backend Systems | Container Orchestration | Ai Applications
 
 <br>
 
@@ -73,7 +73,7 @@ Full-stack | Backend Systems | Container Orchestration | AI Applications
 
 <br>
 
-### AI
+### Ai
 *RAG pipelines, embeddings, agentic workflows*
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
