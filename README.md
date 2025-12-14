@@ -95,19 +95,19 @@ Full-stack | Backend Systems | Container Orchestration | Ai Applications
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JackieTreeh0rn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&show_owner=true&include_forked=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BitWise-0x&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&show_owner=true&include_forked=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JackieTreeh0rn&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BitWise-0x&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackieTreeh0rn&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=12&size_weight=0.5&count_weight=0.5" alt="Language Distribution"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitWise-0x&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=12&size_weight=0.5&count_weight=0.5" alt="Language Distribution"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JackieTreeh0rn&theme=github-compact&bg_color=0d1117&color=58a6ff&line=ff6b35&point=58a6ff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BitWise-0x&theme=github-compact&bg_color=0d1117&color=58a6ff&line=ff6b35&point=58a6ff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 
