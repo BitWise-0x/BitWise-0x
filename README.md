@@ -1,6 +1,6 @@
 # Backend Developer | DevOps Engineer
 
-Full-Stack | End-to-End Orchestration | Serverless | Ai Applications
+Full-Stack | End-to-End Orchestration | Serverless | Ai
 
 <br>
 
