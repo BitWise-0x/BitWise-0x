@@ -1,6 +1,6 @@
 # Backend Developer | DevOps Engineer
 
-Full-stack | Backend Systems | Container Orchestration | Ai Applications
+Full-Stack | End-to-End Orchestration | Serverless | Ai Applications
 
 <br>
 
@@ -14,6 +14,7 @@ Full-stack | Backend Systems | Container Orchestration | Ai Applications
 ![VBScript](https://img.shields.io/badge/VBScript-6A5ACD?style=for-the-badge&logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-6BA539?style=for-the-badge&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-2F2F2F?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-3178C6?style=for-the-badge&logo=powershell&logoColor=white)
@@ -23,9 +24,11 @@ Full-stack | Backend Systems | Container Orchestration | Ai Applications
 
 ### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-806080?style=for-the-badge&logo=uvicorn&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 
@@ -70,7 +73,7 @@ Full-stack | Backend Systems | Container Orchestration | Ai Applications
 <br>
 
 ### Ai
-*RAG pipelines, embeddings, agentic workflows*
+*RAG pipelines, embeddings, agentic workflows, speech-to-speech AI*
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white)
