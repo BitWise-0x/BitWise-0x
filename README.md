@@ -102,7 +102,7 @@ Full-Stack | End-to-End Orchestration | Serverless | Ai Applications
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BitWise-0x&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=BitWise-0x&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
