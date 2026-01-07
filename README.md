@@ -23,6 +23,7 @@ Full-Stack | End-to-End Orchestration | Serverless | Ai
 <br>
 
 ### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-806080?style=for-the-badge&logo=uvicorn&logoColor=white)
@@ -64,7 +65,7 @@ Full-Stack | End-to-End Orchestration | Serverless | Ai
 
 ### Cloud
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-<img src="https://camo.githubusercontent.com/11213f52bbb62d8e6b5ed077eb8e5646205b55485536e99f65742a02080a5970/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d617773266c6f676f436f6c6f723d7768697465" alt="AWS" data-canonical-src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=aws&amp;logoColor=white" style="max-width: 100%;">
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Replicate](https://img.shields.io/badge/Replicate-101010?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjczIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAxMDB2LTIuMzhjMC00Ny40NSA1Ny40OCA5LjcxIDk1Ljg5LTE0LjAyQzEzNC40OSA1NC45NiAxMTEuNzYgMjcuMTIgMTE1LjgxIDBjMjUuMS0yLjMyIDUwLjIxIDQ2LjI3IDcwLjYyIDY2LjY4IDU3LjQ4LTQuMTQgODAuMjEgMjIuNCA4Ni4yMiAzMy4zMi01MC4yMSA4LjI6LTg1LjkgNDYuNC0xMDIuODggNzUuMzN6IiBmaWxsPSIjMDBmZjNjIi8+PC9zdmc+&logoColor=white)
 ![Vast.ai](https://img.shields.io/badge/Vast.ai-5A67D8?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -98,7 +99,7 @@ Full-Stack | End-to-End Orchestration | Serverless | Ai
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BitWise-0x&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&show_owner=true&include_forked=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BitWise-0x&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&show_owner=true&include_forked=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -106,7 +107,7 @@ Full-Stack | End-to-End Orchestration | Serverless | Ai
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitWise-0x&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=12&size_weight=0.5&count_weight=0.5" alt="Language Distribution"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BitWise-0x&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=12&size_weight=0.5&count_weight=0.5" alt="Language Distribution"/>
 </p>
 
 <p align="center">
