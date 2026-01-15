@@ -1,4 +1,4 @@
-# Backend Developer | DevOps Engineer
+# Intelligent Backends
 
 Full-Stack | End-to-End Orchestration | Serverless | Ai
 
@@ -6,7 +6,7 @@ Full-Stack | End-to-End Orchestration | Serverless | Ai
 
 ## Stack
 
-### Languages & Frameworks
+### Languages|Frameworks|Backends
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-FFFFFF?style=for-the-badge&logo=apple&logoColor=black)
@@ -20,9 +20,6 @@ Full-Stack | End-to-End Orchestration | Serverless | Ai
 ![PowerShell](https://img.shields.io/badge/PowerShell-3178C6?style=for-the-badge&logo=powershell&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 
-<br>
-
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -35,7 +32,7 @@ Full-Stack | End-to-End Orchestration | Serverless | Ai
 
 <br>
 
-### Infrastructure
+### Infra
 ![Docker Swarm](https://img.shields.io/badge/Docker--Swarm-326CE5?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -55,7 +52,7 @@ Full-Stack | End-to-End Orchestration | Serverless | Ai
 <br>
 -->
 
-### CI/CD
+### CI|CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Fossa Badge](https://img.shields.io/badge/Fossa-289E6D?logo=fossa&logoColor=fff&style=for-the-badge)
