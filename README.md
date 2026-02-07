@@ -5,9 +5,8 @@
 
 <br>
 
-## Stack
 
-### Languages|Frameworks|Backends
+### Stack
 ![C](https://img.shields.io/badge/C-24283b?style=for-the-badge&logo=c&logoColor=73daca)
 ![C++](https://img.shields.io/badge/C%2B%2B-24283b?style=for-the-badge&logo=c%2B%2B&logoColor=73daca)
 ![Objective-C](https://img.shields.io/badge/Objective--C-24283b?style=for-the-badge&logo=apple&logoColor=73daca)
