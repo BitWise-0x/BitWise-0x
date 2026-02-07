@@ -52,7 +52,7 @@ Full-Stack | End-to-End Orchestration | Serverless | Ai
 <br>
 -->
 
-### CI|CD
+### CI | CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Fossa Badge](https://img.shields.io/badge/Fossa-289E6D?logo=fossa&logoColor=fff&style=for-the-badge)
