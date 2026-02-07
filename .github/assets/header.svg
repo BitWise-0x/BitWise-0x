@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#7aa2f7;stop-opacity:1" />
@@ -6,6 +6,6 @@
       <stop offset="100%" style="stop-color:#73daca;stop-opacity:1" />
     </linearGradient>
   </defs>
-  <text x="400" y="65" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="url(#grad)" text-anchor="middle" letter-spacing="2">Intelligent Backends</text>
-  <text x="400" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#565f89" text-anchor="middle" letter-spacing="4">FULL-STACK | END-TO-END ORCHESTRATION | SERVERLESS | Ai</text>
+  <text x="300" y="55" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="url(#grad)" text-anchor="middle" letter-spacing="2">Intelligent Backends</text>
+  <text x="300" y="95" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#565f89" text-anchor="middle" letter-spacing="1.5">FULL-STACK | END-TO-END ORCHESTRATION | SERVERLESS | Ai</text>
 </svg>
