@@ -110,7 +110,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BitWise-0x?tab=repositories"><img src="https://img.shields.io/badge/Total_Repos-16-24283b?style=for-the-badge&logo=github&logoColor=73daca" alt="Total Repos"/></a>
+  <a href="https://github.com/BitWise-0x?tab=repositories"><img src="https://img.shields.io/badge/Total_Repos-21-24283b?style=for-the-badge&logo=github&logoColor=73daca" alt="Total Repos"/></a>
 </p>
 
 

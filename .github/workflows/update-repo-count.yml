@@ -3,8 +3,6 @@ name: Update Repo Count
 on:
   schedule:
     - cron: '0 0 * * *'
-  push:
-    branches: [main]
   workflow_dispatch:
 
 jobs:
@@ -22,13 +20,17 @@ jobs:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           TOTAL=$(gh repo list ${{ github.repository_owner }} --limit 1000 --json name | jq length)
+          CURRENT=$(grep -oP 'Total_Repos-\K[0-9]+' README.md || echo 0)
           echo "total=$TOTAL" >> "$GITHUB_OUTPUT"
+          echo "current=$CURRENT" >> "$GITHUB_OUTPUT"
 
       - name: Update README badge
+        if: steps.count.outputs.total > 0 && steps.count.outputs.total != steps.count.outputs.current && steps.count.outputs.total >= steps.count.outputs.current
         run: |
           sed -i "s|Total_Repos-[0-9]*-|Total_Repos-${{ steps.count.outputs.total }}-|g" README.md
 
       - name: Commit if changed
+        if: steps.count.outputs.total > 0 && steps.count.outputs.total >= steps.count.outputs.current
         run: |
           git diff --quiet README.md && exit 0
           git config user.name "github-actions[bot]"
