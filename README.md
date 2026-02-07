@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img src=".github/assets/header.svg" alt="Intelligent Backends"/>
+  <img src=".github/assets/header.svg" alt="Intelligent Backends" width="100%"/>
 </p>
 
 <br>
