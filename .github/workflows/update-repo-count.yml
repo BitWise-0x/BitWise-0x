@@ -14,27 +14,32 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Get total repo count
-        id: count
+      - name: Update repo count
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           TOTAL=$(gh repo list ${{ github.repository_owner }} --limit 1000 --json name | jq length)
           CURRENT=$(grep -oP 'Total_Repos-\K[0-9]+' README.md || echo 0)
-          echo "total=$TOTAL" >> "$GITHUB_OUTPUT"
-          echo "current=$CURRENT" >> "$GITHUB_OUTPUT"
 
-      - name: Update README badge
-        if: steps.count.outputs.total > 0 && steps.count.outputs.total != steps.count.outputs.current && steps.count.outputs.total >= steps.count.outputs.current
-        run: |
-          sed -i "s|Total_Repos-[0-9]*-|Total_Repos-${{ steps.count.outputs.total }}-|g" README.md
+          if [ "$TOTAL" -eq 0 ]; then
+            echo "Count is 0, PAT may be missing. Skipping."
+            exit 0
+          fi
 
-      - name: Commit if changed
-        if: steps.count.outputs.total > 0 && steps.count.outputs.total >= steps.count.outputs.current
-        run: |
-          git diff --quiet README.md && exit 0
+          if [ "$TOTAL" -lt "$CURRENT" ]; then
+            echo "New count ($TOTAL) is less than current ($CURRENT). Skipping to prevent downgrade."
+            exit 0
+          fi
+
+          if [ "$TOTAL" -eq "$CURRENT" ]; then
+            echo "Count unchanged ($TOTAL). Skipping."
+            exit 0
+          fi
+
+          sed -i "s|Total_Repos-[0-9]*-|Total_Repos-${TOTAL}-|g" README.md
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update repo count to ${{ steps.count.outputs.total }}"
+          git commit -m "Update repo count to ${TOTAL}"
           git push
