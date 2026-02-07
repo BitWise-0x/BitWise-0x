@@ -7,39 +7,39 @@ Full-Stack | End-to-End Orchestration | Serverless | Ai
 ## Stack
 
 ### Languages|Frameworks|Backends
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-FFFFFF?style=for-the-badge&logo=apple&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![VBScript](https://img.shields.io/badge/VBScript-6A5ACD?style=for-the-badge&logo=windows&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6BA539?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-2F2F2F?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-3178C6?style=for-the-badge&logo=powershell&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![C](https://img.shields.io/badge/C-24283b?style=for-the-badge&logo=c&logoColor=73daca)
+![C++](https://img.shields.io/badge/C%2B%2B-24283b?style=for-the-badge&logo=c%2B%2B&logoColor=73daca)
+![Objective-C](https://img.shields.io/badge/Objective--C-24283b?style=for-the-badge&logo=apple&logoColor=73daca)
+![.NET](https://img.shields.io/badge/.NET-24283b?style=for-the-badge&logo=dotnet&logoColor=73daca)
+![VBScript](https://img.shields.io/badge/VBScript-24283b?style=for-the-badge&logo=windows&logoColor=73daca)
+![Python](https://img.shields.io/badge/Python-24283b?style=for-the-badge&logo=python&logoColor=73daca)
+![Next.js](https://img.shields.io/badge/Next.js-24283b?style=for-the-badge&logo=nextdotjs&logoColor=73daca)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-24283b?style=for-the-badge&logo=tailwindcss&logoColor=73daca)
+![TypeScript](https://img.shields.io/badge/TypeScript-24283b?style=for-the-badge&logo=typescript&logoColor=73daca)
+![Bash](https://img.shields.io/badge/Bash-24283b?style=for-the-badge&logo=gnubash&logoColor=73daca)
+![PowerShell](https://img.shields.io/badge/PowerShell-24283b?style=for-the-badge&logo=powershell&logoColor=73daca)
+![Perl](https://img.shields.io/badge/Perl-24283b?style=for-the-badge&logo=perl&logoColor=73daca)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-806080?style=for-the-badge&logo=uvicorn&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-24283b?style=for-the-badge&logo=nodedotjs&logoColor=7aa2f7)
+![FastAPI](https://img.shields.io/badge/FastAPI-24283b?style=for-the-badge&logo=fastapi&logoColor=7aa2f7)
+![Flask](https://img.shields.io/badge/Flask-24283b?style=for-the-badge&logo=flask&logoColor=7aa2f7)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-24283b?style=for-the-badge&logo=uvicorn&logoColor=7aa2f7)
+![MongoDB](https://img.shields.io/badge/MongoDB-24283b?style=for-the-badge&logo=mongodb&logoColor=7aa2f7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24283b?style=for-the-badge&logo=postgresql&logoColor=7aa2f7)
+![Prisma](https://img.shields.io/badge/Prisma-24283b?style=for-the-badge&logo=prisma&logoColor=7aa2f7)
+![Redis](https://img.shields.io/badge/Redis-24283b?style=for-the-badge&logo=redis&logoColor=7aa2f7)
 
 
 <br>
 
 ### Infra
-![Docker Swarm](https://img.shields.io/badge/Docker--Swarm-326CE5?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik&logoColor=white)
-![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
+![Docker Swarm](https://img.shields.io/badge/Docker--Swarm-24283b?style=for-the-badge&logo=docker&logoColor=bb9af7)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-24283b?style=for-the-badge&logo=kubernetes&logoColor=bb9af7)
+![Nginx](https://img.shields.io/badge/nginx-24283b?style=for-the-badge&logo=nginx&logoColor=bb9af7)
+![Traefik](https://img.shields.io/badge/Traefik-24283b?style=for-the-badge&logo=traefik&logoColor=bb9af7)
+![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-24283b?style=for-the-badge&logo=cloudflare&logoColor=bb9af7)
+![VMware](https://img.shields.io/badge/VMware-24283b?style=for-the-badge&logo=vmware&logoColor=bb9af7)
+![Proxmox](https://img.shields.io/badge/proxmox-24283b?style=for-the-badge&logo=proxmox&logoColor=bb9af7)
 
 
 <br>
@@ -53,38 +53,38 @@ Full-Stack | End-to-End Orchestration | Serverless | Ai
 -->
 
 ### CI | CD
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
-![Fossa Badge](https://img.shields.io/badge/Fossa-289E6D?logo=fossa&logoColor=fff&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-24283b?style=for-the-badge&logo=githubactions&logoColor=9ece6a)
+![Dependabot](https://img.shields.io/badge/Dependabot-24283b?style=for-the-badge&logo=dependabot&logoColor=9ece6a)
+![Fossa Badge](https://img.shields.io/badge/Fossa-24283b?style=for-the-badge&logo=fossa&logoColor=9ece6a)
 
 <br>
 
 
 ### Cloud
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Replicate](https://img.shields.io/badge/Replicate-101010?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjczIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAxMDB2LTIuMzhjMC00Ny40NSA1Ny40OCA5LjcxIDk1Ljg5LTE0LjAyQzEzNC40OSA1NC45NiAxMTEuNzYgMjcuMTIgMTE1LjgxIDBjMjUuMS0yLjMyIDUwLjIxIDQ2LjI3IDcwLjYyIDY2LjY4IDU3LjQ4LTQuMTQgODAuMjEgMjIuNCA4Ni4yMiAzMy4zMi01MC4yMSA4LjI6LTg1LjkgNDYuNC0xMDIuODggNzUuMzN6IiBmaWxsPSIjMDBmZjNjIi8+PC9zdmc+&logoColor=white)
-![Vast.ai](https://img.shields.io/badge/Vast.ai-5A67D8?style=for-the-badge&logo=nvidia&logoColor=white)
-![RunPod](https://img.shields.io/badge/RunPod.io-663399?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-24283b?style=for-the-badge&logo=googlecloud&logoColor=7dcfff)
+![AWS](https://img.shields.io/badge/AWS-24283b?style=for-the-badge&logo=amazonaws&logoColor=7dcfff)
+![Vercel](https://img.shields.io/badge/Vercel-24283b?style=for-the-badge&logo=vercel&logoColor=7dcfff)
+![Replicate](https://img.shields.io/badge/Replicate-24283b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjczIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAxMDB2LTIuMzhjMC00Ny40NSA1Ny40OCA5LjcxIDk1Ljg5LTE0LjAyQzEzNC40OSA1NC45NiAxMTEuNzYgMjcuMTIgMTE1LjgxIDBjMjUuMS0yLjMyIDUwLjIxIDQ2LjI3IDcwLjYyIDY2LjY4IDU3LjQ4LTQuMTQgODAuMjEgMjIuNCA4Ni4yMiAzMy4zMi01MC4yMSA4LjI6LTg1LjkgNDYuNC0xMDIuODggNzUuMzN6IiBmaWxsPSIjMDBmZjNjIi8+PC9zdmc+&logoColor=7dcfff)
+![Vast.ai](https://img.shields.io/badge/Vast.ai-24283b?style=for-the-badge&logo=nvidia&logoColor=7dcfff)
+![RunPod](https://img.shields.io/badge/RunPod.io-24283b?style=for-the-badge&logo=docker&logoColor=7dcfff)
 
 <br>
 
 ### Ai
-*RAG pipelines, embeddings, agentic workflows, speech-to-speech AI*
+*RAG | Embeddings | Agentic Workflows | Multimodal Voice Ai*
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FECC00?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
-![MCPO: Model Context Protocol](https://img.shields.io/badge/MCPO-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-24283b?style=for-the-badge&logo=openai&logoColor=bb9af7)
+![Anthropic](https://img.shields.io/badge/Anthropic-24283b?style=for-the-badge&logo=anthropic&logoColor=bb9af7)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-24283b?style=for-the-badge&logo=huggingface&logoColor=bb9af7)
+![Ollama](https://img.shields.io/badge/Ollama-24283b?style=for-the-badge&logo=ollama&logoColor=bb9af7)
+![MCPO: Model Context Protocol](https://img.shields.io/badge/MCPO-24283b?style=for-the-badge&logo=anthropic&logoColor=bb9af7)
 
 
 <br>
 
 ### Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-24283b?style=for-the-badge&logo=prometheus&logoColor=ff9e64)
+![Grafana](https://img.shields.io/badge/Grafana-24283b?style=for-the-badge&logo=grafana&logoColor=ff9e64)
 
 <br>
 
@@ -96,19 +96,17 @@ Full-Stack | End-to-End Orchestration | Serverless | Ai
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BitWise-0x&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&show_owner=true&include_forked=true" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitWise-0x&theme=tokyonight" alt="Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BitWise-0x&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BitWise-0x&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BitWise-0x&theme=tokyonight&utcOffset=-8" alt="Productive Time"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BitWise-0x&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=12&size_weight=0.5&count_weight=0.5" alt="Language Distribution"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BitWise-0x&theme=github-compact&bg_color=0d1117&color=58a6ff&line=ff6b35&point=58a6ff&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BitWise-0x&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BitWise-0x&theme=tokyonight" alt="Most Commit Language"/>
 </p>
 
 
