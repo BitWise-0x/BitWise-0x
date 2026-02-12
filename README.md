@@ -75,7 +75,7 @@ FULL-STACK | END-TO-END ORCHESTRATION | SERVERLESS | Ai
 <br>
 
 ### Ai
-*RAG | Embeddings | Agentic Workflows | Multimodal Voice Ai*
+RAG | Embeddings | Agentic Workflows | Multimodal Voice Ai
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-24283b?style=for-the-badge&logo=openai&logoColor=bb9af7)
 ![Anthropic](https://img.shields.io/badge/Anthropic-24283b?style=for-the-badge&logo=anthropic&logoColor=bb9af7)
