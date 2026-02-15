@@ -1,6 +1,6 @@
 <br>
 
-<img src=".github/assets/header.svg" alt="Intelligent Backends" width="100%"/>
+![Intelligent Backends](.github/assets/header.svg)
 FULL-STACK | END-TO-END ORCHESTRATION | SERVERLESS | Ai
 
 ---
