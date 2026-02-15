@@ -12,8 +12,6 @@ FULL-STACK | END-TO-END ORCHESTRATION | SERVERLESS | Ai
 
 
 
-
-
 ### Stack
 ![C](https://img.shields.io/badge/C-24283b?style=for-the-badge&logo=c&logoColor=73daca)
 ![C++](https://img.shields.io/badge/C%2B%2B-24283b?style=for-the-badge&logo=c%2B%2B&logoColor=73daca)
