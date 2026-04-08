@@ -23,13 +23,13 @@ FULL-STACK | END-TO-END ORCHESTRATION | SERVERLESS | Ai
 ![TypeScript](https://img.shields.io/badge/TypeScript-24283b?style=for-the-badge&logo=typescript&logoColor=73daca)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-24283b?style=for-the-badge&logo=tailwindcss&logoColor=73daca)
 ![Bash](https://img.shields.io/badge/Bash-24283b?style=for-the-badge&logo=gnubash&logoColor=73daca)
-![PowerShell](https://img.shields.io/badge/PowerShell-24283b?style=for-the-badge&logo=powershell&logoColor=73daca)
+![PowerShell](https://img.shields.io/badge/PowerShell-24283b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzczZGFjYSIgZD0iTTIxLjA3MiAyLjE1N2ExLjMyNyAxLjMyNyAwIDAgMC0xLjA0MS0uNDlINC45MjhjLS42MTIgMC0xLjE1MS40MTctMS4zMDUgMS4wMUwuMDQ2IDIwLjY3N2MtLjEwNi40MTItLjAxNS44NS4yNDYgMS4xODYuMjYuMzM2LjY2Mi41MzMgMS4wODcuNTMzSDE2LjQyYy42MTIgMCAxLjE1MS0uNDE3IDEuMzA1LTEuMDFsMy41NzctMTcuOTk5YTEuMzI4IDEuMzI4IDAgMCAwLS4yMy0xLjIzek0xNC41IDE3LjVoLTVhLjc1Ljc1IDAgMCAxIDAtMS41aDVhLjc1Ljc1IDAgMCAxIDAgMS41em0tMS40My01LjU4NUw3LjU4MiAxNi4yN2EuODc1Ljg3NSAwIDAgMS0xLjIyNy0uMTU4Ljg3NS44NzUgMCAwIDEgLjE1OC0xLjIyN2w0LjQ5LTMuNTI0LTMuMTA1LTMuMjM2YS44NzUuODc1IDAgMCAxIDEuMjYyLTEuMjEybDMuOTEgNC4wNzVhLjg3NS44NzUgMCAwIDEgMCAxLjIxMnoiLz48L3N2Zz4=)
 ![Perl](https://img.shields.io/badge/Perl-24283b?style=for-the-badge&logo=perl&logoColor=73daca)
 
 ![Node.js](https://img.shields.io/badge/Node.js-24283b?style=for-the-badge&logo=nodedotjs&logoColor=7aa2f7)
 ![FastAPI](https://img.shields.io/badge/FastAPI-24283b?style=for-the-badge&logo=fastapi&logoColor=7aa2f7)
 ![Flask](https://img.shields.io/badge/Flask-24283b?style=for-the-badge&logo=flask&logoColor=7aa2f7)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-24283b?style=for-the-badge&logo=gunicorn&logoColor=7aa2f7)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-24283b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzdhYTJmNyIgZD0iTTQgM2gzdjExYTUgNSAwIDAgMCAxMCAwVjNoM3YxMWE4IDggMCAwIDEtMTYgMFYzeiIvPjwvc3ZnPg==)
 ![MongoDB](https://img.shields.io/badge/MongoDB-24283b?style=for-the-badge&logo=mongodb&logoColor=7aa2f7)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24283b?style=for-the-badge&logo=postgresql&logoColor=7aa2f7)
 ![Prisma](https://img.shields.io/badge/Prisma-24283b?style=for-the-badge&logo=prisma&logoColor=7aa2f7)
@@ -50,14 +50,6 @@ FULL-STACK | END-TO-END ORCHESTRATION | SERVERLESS | Ai
 
 <br>
 
-<!--
-### IaC
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-<br>
--->
-
 ### CI | CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-24283b?style=for-the-badge&logo=githubactions&logoColor=9ece6a)
 ![Dependabot](https://img.shields.io/badge/Dependabot-24283b?style=for-the-badge&logo=dependabot&logoColor=9ece6a)
@@ -70,9 +62,10 @@ FULL-STACK | END-TO-END ORCHESTRATION | SERVERLESS | Ai
 ![GCP](https://img.shields.io/badge/GCP-24283b?style=for-the-badge&logo=googlecloud&logoColor=7dcfff)
 ![AWS](https://img.shields.io/badge/AWS-24283b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzdkY2ZmZiIgZD0iTTIxLjcgMTYuMmMtMi42IDItNi41IDMtOS43IDNDNy40IDE5LjIgMy4zIDE3LjUuMSAxNC43Yy0uMy0uMyAwLS41LjMtLjQgMy40IDIgNy42IDMuMiAxMS45IDMuMiAyLjkgMCA2LjEtLjYgOS0xLjguNC0uMi44LjMuNC41em0xLjEtMS4yYy0uNC0uNS0yLjItLjItMy4xLS4xLS4zIDAtLjMtLjItLjEtLjQgMS41LTEgNC0uNyA0LjMtLjQuMy40LS4xIDIuOC0xLjUgNC0uMi4yLS40LjEtLjMtLjIuMy0uOCAxLTIuNS43LTIuOXoiLz48L3N2Zz4=)
 ![Vercel](https://img.shields.io/badge/Vercel-24283b?style=for-the-badge&logo=vercel&logoColor=7dcfff)
-![Replicate](https://img.shields.io/badge/Replicate-24283b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjczIDEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAxMDB2LTIuMzhjMC00Ny40NSA1Ny40OCA5LjcxIDk1Ljg5LTE0LjAyQzEzNC40OSA1NC45NiAxMTEuNzYgMjcuMTIgMTE1LjgxIDBjMjUuMS0yLjMyIDUwLjIxIDQ2LjI3IDcwLjYyIDY2LjY4IDU3LjQ4LTQuMTQgODAuMjEgMjIuNCA4Ni4yMiAzMy4zMi01MC4yMSA4LjI6LTg1LjkgNDYuNC0xMDIuODggNzUuMzN6IiBmaWxsPSIjMDBmZjNjIi8+PC9zdmc+&logoColor=7dcfff)
+![Replicate](https://img.shields.io/badge/Replicate-24283b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCAxMDAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IiM3ZGNmZmYiIGQ9Ik0xMDAwIDQyNy4zNlY1NzAuOEg3MTMuMThWMTAwMEg1NTQuNDFWNDI3LjM2SDEwMDB6TTQyNC45MiAyMDguOTRWMTAwMEgyNjYuMTVWMjA4Ljk0SDQyNC45MnpNMTAwMCAwdjE0My40NEgxNDAuODZWMTAwMEgwVjBoMTAwMHoiLz48L3N2Zz4=)
 ![Vast.ai](https://img.shields.io/badge/Vast.ai-24283b?style=for-the-badge&logo=nvidia&logoColor=7dcfff)
-![RunPod](https://img.shields.io/badge/RunPod.io-24283b?style=for-the-badge&logo=docker&logoColor=7dcfff)
+![RunPod](https://img.shields.io/badge/RunPod.io-24283b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzdkY2ZmZiIgZD0iTTEyIDJhNyA3IDAgMCAwLTcgN3Y2YTcgNyAwIDAgMCAxNCAwVjlhNyA3IDAgMCAwLTctN3ptMCAzYTQgNCAwIDAgMSA0IDR2NmE0IDQgMCAwIDEtOCAwVjlhNCA0IDAgMCAxIDQtNHptMCAzYTEuNSAxLjUgMCAwIDAtMS41IDEuNXYyYTEuNSAxLjUgMCAwIDAgMyAwdi0yQTEuNSAxLjUgMCAwIDAgMTIgOHoiLz48L3N2Zz4=)
+![Railway](https://img.shields.io/badge/Railway-24283b?style=for-the-badge&logo=railway&logoColor=7dcfff)
 
 <br>
 
@@ -82,8 +75,8 @@ RAG | Embeddings | Agentic Workflows | Multimodal Voice Ai
 ![OpenAI](https://img.shields.io/badge/OpenAI-24283b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjYmI5YWY3IiBkPSJNMjIuMjgxOSA5LjgyMTFhNS45ODQ3IDUuOTg0NyAwIDAgMC0uNTE1Ny00LjkxMDggNi4wNDYyIDYuMDQ2MiAwIDAgMC02LjUwOTgtMi45QTYuMDY1MSA2LjA2NTEgMCAwIDAgNC45ODA3IDQuMTgxOGE1Ljk4NDcgNS45ODQ3IDAgMCAwLTMuOTk3NyAyLjkgNi4wNDYyIDYuMDQ2MiAwIDAgMCAuNzQyNyA3LjA5NjYgNS45OCA1Ljk4IDAgMCAwIC41MTEgNC45MTA3IDYuMDUxIDYuMDUxIDAgMCAwIDYuNTE0NiAyLjkwMDFBNS45ODQ3IDUuOTg0NyAwIDAgMCAxMy4yNTk5IDI0YTYuMDU1NyA2LjA1NTcgMCAwIDAgNS43NzE4LTQuMjA1OCA1Ljk4OTQgNS45ODk0IDAgMCAwIDMuOTk3Ny0yLjkwMDEgNi4wNTU3IDYuMDU1NyAwIDAgMC0uNzQ3NS03LjA3Mjl6bS05LjAyMiAxMi42MDgxYTQuNDc1NSA0LjQ3NTUgMCAwIDEtMi44NzY0LTEuMDQwOGwuMTQxOS0uMDgwNCA0Ljc3ODMtMi43NTgyYS43OTQ4Ljc5NDggMCAwIDAgLjM5MjctLjY4MTN2LTYuNzM2OWwyLjAyIDEuMTY4NmEuMDcxLjA3MSAwIDAgMSAuMDM4LjA1MnY1LjU4MjZhNC41MDQgNC41MDQgMCAwIDEtNC40OTQ1IDQuNDk0NHptLTkuNjYwNy00LjEyNTRhNC40NzA4IDQuNDcwOCAwIDAgMS0uNTM0Ni0zLjAxMzdsLjE0Mi4wODUyIDQuNzgzIDIuNzU4MmEuNzcxMi43NzEyIDAgMCAwIC43ODA2IDBsNS44NDI4LTMuMzY4NXYyLjMzMjRhLjA4MDQuMDgwNCAwIDAgMS0uMDMzMi4wNjE1TDkuNzQgMTkuOTUwMmE0LjQ5OTIgNC40OTkyIDAgMCAxLTYuMTQwOC0xLjY0NjR6TTIuMzQwOCA3Ljg5NTZhNC40ODUgNC40ODUgMCAwIDEgMi4zNjU1LTEuOTcyOFYxMS42YS43NjY0Ljc2NjQgMCAwIDAgLjM4NzkuNjc2NWw1LjgxNDQgMy4zNTQzLTIuMDIwMSAxLjE2ODVhLjA3NTcuMDc1NyAwIDAgMS0uMDcxIDBsLTQuODMwMy0yLjc4NjVBNC41MDQgNC41MDQgMCAwIDEgMi4zNDA4IDcuODcyem0xNi41OTYzIDMuODU1OEwxMy4xMDM4IDguMzY0IDE1LjExOTIgNy4yYS4wNzU3LjA3NTcgMCAwIDEgLjA3MSAwbDQuODMwMyAyLjc5MTNhNC40OTQ0IDQuNDk0NCAwIDAgMS0uNjc2NSA4LjEwNDJ2LTUuNjc3MmEuNzkuNzkgMCAwIDAtLjQwNy0uNjY3em0yLjAxMDctMy4wMjMxbC0uMTQyLS4wODUyLTQuNzczNS0yLjc4MThhLjc3NTkuNzc1OSAwIDAgMC0uNzg1NCAwTDkuNDA5IDkuMjI5N1Y2Ljg5NzRhLjA2NjIuMDY2MiAwIDAgMSAuMDI4NC0uMDYxNWw0LjgzMDMtMi43ODY2YTQuNDk5MiA0LjQ5OTIgMCAwIDEgNi42ODAyIDQuNjZ6TTguMzA2NSAxMi44NjNsLTIuMDItMS4xNjM4YS4wODA0LjA4MDQgMCAwIDEtLjAzOC0uMDU2N1Y2LjA3NDJhNC40OTkyIDQuNDk5MiAwIDAgMSA3LjM3NTctMy40NTM3bC0uMTQyLjA4MDVMOC43MDQgNS40NTlhLjc5NDguNzk0OCAwIDAgMC0uMzkyNy42ODEzem0xLjA5NzYtMi4zNjU0bDIuNjAyLTEuNDk5OCAyLjYwNjkgMS40OTk4djIuOTk5NGwtMi41OTc0IDEuNDk5Ny0yLjYwNjctMS40OTk3WiIvPjwvc3ZnPg==)
 ![Anthropic](https://img.shields.io/badge/Anthropic-24283b?style=for-the-badge&logo=anthropic&logoColor=bb9af7)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-24283b?style=for-the-badge&logo=huggingface&logoColor=bb9af7)
-![Ollama](https://img.shields.io/badge/Ollama-24283b?style=for-the-badge&logo=ollama&logoColor=bb9af7)
-![MCPO: Model Context Protocol](https://img.shields.io/badge/MCPO-24283b?style=for-the-badge&logo=anthropic&logoColor=bb9af7)
+![Agentic](https://img.shields.io/badge/Agentic-24283b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2JiOWFmNyIgZD0iTTEyIDJhMiAyIDAgMCAxIDIgMnYxaDNhMyAzIDAgMCAxIDMgM3Y5YTMgMyAwIDAgMS0zIDNIN2EzIDMgMCAwIDEtMy0zVjhhMyAzIDAgMCAxIDMtM2gzVjRhMiAyIDAgMCAxIDItMnpNOSAxMWExLjUgMS41IDAgMSAwIDAgMyAxLjUgMS41IDAgMCAwIDAtM3ptNiAwYTEuNSAxLjUgMCAxIDAgMCAzIDEuNSAxLjUgMCAwIDAgMC0zem0tNiA1aDZ2MUg5di0xek0yIDExaDJ2NEgydi00em0xOCAwaDJ2NGgtMnYtNHoiLz48L3N2Zz4=)
+![MCP: Model Context Protocol](https://img.shields.io/badge/MCP-24283b?style=for-the-badge&logo=anthropic&logoColor=bb9af7)
 
 
 <br>
@@ -91,8 +84,6 @@ RAG | Embeddings | Agentic Workflows | Multimodal Voice Ai
 ### Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-24283b?style=for-the-badge&logo=prometheus&logoColor=ff9e64)
 ![Grafana](https://img.shields.io/badge/Grafana-24283b?style=for-the-badge&logo=grafana&logoColor=ff9e64)
-
-<br>
 
 <br>
 
