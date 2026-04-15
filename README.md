@@ -19,12 +19,12 @@ FULL-STACK | END-TO-END ORCHESTRATION | SERVERLESS | Ai
 ![.NET](https://img.shields.io/badge/.NET-24283b?style=for-the-badge&logo=dotnet&logoColor=73daca)
 ![VBScript](https://img.shields.io/badge/VBScript-24283b?style=for-the-badge&logo=windows&logoColor=73daca)
 ![Python](https://img.shields.io/badge/Python-24283b?style=for-the-badge&logo=python&logoColor=73daca)
+![React](https://img.shields.io/badge/React-24283b?style=for-the-badge&logo=react&logoColor=73daca)
 ![Next.js](https://img.shields.io/badge/Next.js-24283b?style=for-the-badge&logo=nextdotjs&logoColor=73daca)
 ![TypeScript](https://img.shields.io/badge/TypeScript-24283b?style=for-the-badge&logo=typescript&logoColor=73daca)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-24283b?style=for-the-badge&logo=tailwindcss&logoColor=73daca)
 ![Bash](https://img.shields.io/badge/Bash-24283b?style=for-the-badge&logo=gnubash&logoColor=73daca)
 ![PowerShell](https://img.shields.io/badge/PowerShell-24283b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzczZGFjYSIgZD0iTTIxLjA3MiAyLjE1N2ExLjMyNyAxLjMyNyAwIDAgMC0xLjA0MS0uNDlINC45MjhjLS42MTIgMC0xLjE1MS40MTctMS4zMDUgMS4wMUwuMDQ2IDIwLjY3N2MtLjEwNi40MTItLjAxNS44NS4yNDYgMS4xODYuMjYuMzM2LjY2Mi41MzMgMS4wODcuNTMzSDE2LjQyYy42MTIgMCAxLjE1MS0uNDE3IDEuMzA1LTEuMDFsMy41NzctMTcuOTk5YTEuMzI4IDEuMzI4IDAgMCAwLS4yMy0xLjIzek0xNC41IDE3LjVoLTVhLjc1Ljc1IDAgMCAxIDAtMS41aDVhLjc1Ljc1IDAgMCAxIDAgMS41em0tMS40My01LjU4NUw3LjU4MiAxNi4yN2EuODc1Ljg3NSAwIDAgMS0xLjIyNy0uMTU4Ljg3NS44NzUgMCAwIDEgLjE1OC0xLjIyN2w0LjQ5LTMuNTI0LTMuMTA1LTMuMjM2YS44NzUuODc1IDAgMCAxIDEuMjYyLTEuMjEybDMuOTEgNC4wNzVhLjg3NS44NzUgMCAwIDEgMCAxLjIxMnoiLz48L3N2Zz4=)
-![Perl](https://img.shields.io/badge/Perl-24283b?style=for-the-badge&logo=perl&logoColor=73daca)
 
 ![Node.js](https://img.shields.io/badge/Node.js-24283b?style=for-the-badge&logo=nodedotjs&logoColor=7aa2f7)
 ![FastAPI](https://img.shields.io/badge/FastAPI-24283b?style=for-the-badge&logo=fastapi&logoColor=7aa2f7)
@@ -52,8 +52,11 @@ FULL-STACK | END-TO-END ORCHESTRATION | SERVERLESS | Ai
 
 ### CI | CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-24283b?style=for-the-badge&logo=githubactions&logoColor=9ece6a)
+![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-24283b?style=for-the-badge&logo=conventionalcommits&logoColor=9ece6a)
+![CodeQL](https://img.shields.io/badge/CodeQL-24283b?style=for-the-badge&logo=github&logoColor=9ece6a)
 ![Dependabot](https://img.shields.io/badge/Dependabot-24283b?style=for-the-badge&logo=dependabot&logoColor=9ece6a)
-![Fossa Badge](https://img.shields.io/badge/Fossa-24283b?style=for-the-badge&logo=fossa&logoColor=9ece6a)
+![Fossa](https://img.shields.io/badge/Fossa-24283b?style=for-the-badge&logo=fossa&logoColor=9ece6a)
+![semantic-release](https://img.shields.io/badge/semantic--release-24283b?style=for-the-badge&logo=semanticrelease&logoColor=9ece6a)
 
 <br>
 
