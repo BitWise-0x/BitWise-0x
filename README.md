@@ -87,6 +87,7 @@ RAG | Embeddings | Agentic Workflows | Multimodal Voice Ai
 ### Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-24283b?style=for-the-badge&logo=prometheus&logoColor=ff9e64)
 ![Grafana](https://img.shields.io/badge/Grafana-24283b?style=for-the-badge&logo=grafana&logoColor=ff9e64)
+![Sentry](https://img.shields.io/badge/Sentry-24283b?style=for-the-badge&logo=sentry&logoColor=ff9e64)
 
 <br>
 
