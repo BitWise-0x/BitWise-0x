@@ -111,7 +111,7 @@ RAG | Embeddings | Agentic Workflows | Multimodal Voice Ai
 </p>
 
 <p align="center">
-  <a href="https://github.com/BitWise-0x?tab=repositories"><img src="https://img.shields.io/badge/Total_Repos-21-24283b?style=for-the-badge&logo=github&logoColor=0ea5c4" alt="Total Repos"/></a>
+  <a href="https://github.com/BitWise-0x?tab=repositories"><img src="https://img.shields.io/badge/Total_Repos-23-24283b?style=for-the-badge&logo=github&logoColor=0ea5c4" alt="Total Repos"/></a>
   <a href="https://bitwise0x.com"><img src="https://img.shields.io/badge/Homepage-24283b?style=for-the-badge&logo=googlehome&logoColor=0ea5c4" alt="bitwise0x.com"/></a>
 </p>
 
