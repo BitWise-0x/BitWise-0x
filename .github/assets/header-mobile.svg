@@ -1,9 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 80" width="230" height="31">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220" width="260" height="95" role="img" aria-label="BitWise — Smart SaaS, end to end">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#38bdf8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0ea5c4;stop-opacity:1" />
+    <linearGradient id="sig" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4ab3e8"/>
+      <stop offset="100%" stop-color="#1c9ad6"/>
     </linearGradient>
   </defs>
-  <text x="300" y="58" font-family="'IBM Plex Mono', 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace" font-size="52" font-weight="600" fill="url(#grad)" text-anchor="middle" letter-spacing="-1">Intelligent Backends</text>
+
+  <!-- 0x glyph centered -->
+  <rect x="252" y="4" width="96" height="96" rx="20" fill="none" stroke="url(#sig)" stroke-width="4"/>
+  <text x="300" y="66" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,monospace" font-size="46" font-weight="700" fill="url(#sig)" text-anchor="middle">0x</text>
+
+  <!-- wordmark -->
+  <text x="300" y="158" font-family="'Space Grotesk','Segoe UI',system-ui,sans-serif" font-size="60" font-weight="700" fill="#8a938f" text-anchor="middle" letter-spacing="-2">BitWise</text>
+
+  <!-- tagline -->
+  <text x="300" y="196" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,monospace" font-size="22" font-weight="500" fill="url(#sig)" text-anchor="middle" letter-spacing="3">SMART SAAS, END TO END</text>
 </svg>
