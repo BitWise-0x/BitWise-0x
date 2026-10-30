@@ -11,7 +11,7 @@
   <text x="300" y="66" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,monospace" font-size="46" font-weight="700" fill="url(#sig)" text-anchor="middle">0x</text>
 
   <!-- wordmark -->
-  <text x="300" y="158" font-family="'Space Grotesk','Segoe UI',system-ui,sans-serif" font-size="60" font-weight="700" fill="#8a938f" text-anchor="middle" letter-spacing="-2">BitWise</text>
+  <text x="300" y="158" font-family="'Space Grotesk','Segoe UI',system-ui,sans-serif" font-size="60" font-weight="700" fill="#e7ece8" text-anchor="middle" letter-spacing="-2">BitWise</text>
 
   <!-- tagline -->
   <text x="300" y="196" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,monospace" font-size="22" font-weight="500" fill="url(#sig)" text-anchor="middle" letter-spacing="1">Smart SaaS, end-to-end</text>
