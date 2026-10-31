@@ -1,9 +1,6 @@
 <br>
 
-<picture>
-  <source media="(max-width: 768px)" srcset=".github/assets/header-mobile.svg"/>
-  <img src=".github/assets/header.svg" alt="BitWise: Intelligent Backends" width="300"/>
-</picture>
+<img src=".github/assets/header.svg" alt="BitWise: Intelligent Backends" width="300"/>
 
 FULL-STACK | END-TO-END ORCHESTRATION | SERVERLESS | Ai
 
