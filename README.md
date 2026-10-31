@@ -1,8 +1,6 @@
-<br>
-
 <img src=".github/assets/header.svg" alt="BitWise: Intelligent Backends" width="300"/>
 
-FULL-STACK | END-TO-END ORCHESTRATION | SERVERLESS | Ai
+FULL-STACK-DEV • ORCHESTRATION • Ai
 
 ---
 <br>
